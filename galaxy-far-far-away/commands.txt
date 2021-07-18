@@ -1,0 +1,7 @@
+    /* Steps to get commands.txt to work */
+1. Open terminal.
+2. Punch in "cd Desktop" on terminal
+3. Punch in "cd git-github-and-terminal"
+3. Punch in "mkdir galaxy-far-far-away"
+4. Punch in "cd galaxy-far-far-away"
+4. Punch in "touch commands.txt".
